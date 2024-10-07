@@ -51,6 +51,7 @@ namespace Unit5_AdapterPatternPatient_Blazor.InsuranceSystem
         {
             return Name;
         }
+
     }
 }
 
